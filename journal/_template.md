@@ -8,6 +8,8 @@
 
 {per-project summary, drop items without updates}
 
+{order of reporting: changes released > merged to master > started work > discussions and future plans}
+
 [dcrd](https://github.com/decred/dcrd): {}
 
 [dcrwallet](https://github.com/decred/dcrwallet): {}
@@ -16,9 +18,9 @@
 
 [Politeia](https://github.com/decred/politeia): {}
 
-[Android wallet](https://github.com/decred/dcrandroid): {}
+[dcrandroid](https://github.com/decred/dcrandroid): {}
 
-[iOS wallet](https://github.com/raedahgroup/dcrios): {}
+[dcrios](https://github.com/raedahgroup/dcrios): {}
 
 Trezor: {}
 
@@ -83,8 +85,6 @@ New merchants:
 ## Outreach
 
 {overview of outreach/communications/marketing activity for past month and any short-term plans}
-
-Targeted advertising report for {month} was posted by @{}. {short recap}. Read more [here]({link}).
 
 ## Events
 
@@ -166,7 +166,7 @@ Twitter: {interesting threads}
 
 ## About This Issue
 
-This is the {}th issue of Decred Journal. It is available on [GitHub]({}). Past issues are available [here](https://xaur.github.io/decred-news/).
+This is the {}th issue of Decred Journal. All issues, mirrors and translations are available [here](https://xaur.github.io/decred-news/).
 
 Most information from third parties is relayed directly from source after a minimal sanity check. The authors of Decred Journal have no ability to verify all claims. Please beware of scams and do your own research.
 
